@@ -1,4 +1,4 @@
-**PCOS Business Intelligence & Lifestyle Analytics Dashboard**
+## **PCOS Business Intelligence & Lifestyle Analytics Dashboard**
 
 An end-to-end healthcare analytics project analyzing PCOS patient data to uncover hormonal, lifestyle, and metabolic patterns using Power BI.
 
